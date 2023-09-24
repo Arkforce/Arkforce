@@ -1,0 +1,5 @@
+print("Please enter a word ")
+word = input()
+print("The word you input is" , word.upper(), word.lower(), word.title(), word.capitalize())
+print("Total lengh is ", len(word))
+print("The fist letter is", word[0])

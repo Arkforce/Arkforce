@@ -1,0 +1,3 @@
+str = "Strings attached "
+print(len(str))
+print(str[6])
